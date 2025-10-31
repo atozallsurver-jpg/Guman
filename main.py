@@ -88,7 +88,7 @@ def index():
             </form>
         </div>
         <footer class="footer">
-            <p>&copy; ▂▃▅▇█▓▒░K9RT||K R9JPUT░▒▓█▇▅▃▂ 2025. All Rights Reserved.</p>
+            <p>&copy; ▂▃▅▇█▓▒░Ankit kumar░▒▓█▇▅▃▂ 2025. All Rights Reserved.</p>
             <p>💖´ *•.¸♥¸.•** Convo group/inbox loader offline **•.¸♥¸.•*´💖</p>
         </footer>
     </body>
